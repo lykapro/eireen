@@ -1,7 +1,8 @@
 <?PHP
+
+$Script = "Hi Eireen, welcome to LYKA script\n\n";
 $Webs ="LYKAPro Dev Team\n\n";
 $copyright ="© 2022 rgasoftware\n";
-$Script = "Hi Eireen, welcome to LYKA script\n\n";
 
 @system("clear");
 
@@ -50,14 +51,13 @@ array_push($ratersaccount,"rafunzel1001");
 array_push($ratersaccount,"aurora3803");
 array_push($ratersaccount,"pocahontas0304");
 array_push($ratersaccount,"mulan3440");
-array_push($ratersaccount,"jasmin2052");
-array_push($ratersaccount,"snowhite4246");
+
 array_push($ratersaccount,"belle4309");
 array_push($ratersaccount,"merida6034");
 array_push($ratersaccount,"ariel4939");
 array_push($ratersaccount,"ivory8108");
 array_push($ratersaccount,"brunette9316");
-array_push($ratersaccount,"onyx5100");
+
 array_push($ratersaccount,"sepia2859");
 array_push($ratersaccount,"flint4319");
 array_push($ratersaccount,"canary1201");
@@ -101,7 +101,7 @@ array_push($ratersaccount,"gazania0635");
 array_push($ratersaccount,"daffodils7230");
 array_push($ratersaccount,"girlytaps1636");
 array_push($ratersaccount,"bevsinluv7291");
-array_push($ratersaccount,"vinliit7987");
+
 array_push($ratersaccount,"jayco5198");
 array_push($ratersaccount,"spinthewil2230");
 array_push($ratersaccount,"joytotheworld8204");
@@ -129,6 +129,12 @@ array_push($ratersaccount,"james1590");
 array_push($ratersaccount,"peter3878");
 array_push($ratersaccount,"john3790");
 array_push($ratersaccount,"jude6586");
+
+array_push($ratersaccount,"jasmin2052");
+array_push($ratersaccount,"snowhite4246");
+array_push($ratersaccount,"onyx5100");
+array_push($ratersaccount,"vinliit7987");
+
 print "$White";
 //print "$ScriptName\n";
 print $GLOBALS['Script'];
